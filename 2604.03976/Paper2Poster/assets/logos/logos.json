@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "logos": [
+    {
+      "name": "Microsoft Research",
+      "institution_key": "microsoft",
+      "institution_keys": [
+        "microsoft"
+      ],
+      "slug": "microsoft",
+      "path": "assets/logos/microsoft.png",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_logo_%282012%29.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "fffffffffdfdf9fdf3f9f358f258f5b9e5adf5adf5a5f4d6f0dafcdaffffffff",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 640,
+        "height": 136,
+        "has_transparency": true,
+        "foreground_fraction": 0.39249,
+        "contrast_mean": 150.766,
+        "unique_colors": 37,
+        "color_entropy": 2.8283,
+        "edge_density": 0.29108,
+        "palette_concentration": 0.84657,
+        "flat_fraction": 0.71425,
+        "fingerprint": "fffffffffdfdf9fdf3f9f358f258f5b9e5adf5adf5a5f4d6f0dafcdaffffffff"
+      }
+    },
+    {
+      "name": "Columbia University",
+      "institution_key": "columbia-university",
+      "institution_keys": [
+        "columbia-university"
+      ],
+      "slug": "columbia-university",
+      "path": "assets/logos/columbia-university.png",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_Arms_of_Columbia_University.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "f07ff07ff07ff07f817f8fff894f870f8f0f0ccf38e3317331730ccf833fe0ff",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 491,
+        "height": 640,
+        "has_transparency": true,
+        "foreground_fraction": 0.46736,
+        "contrast_mean": 148.538,
+        "unique_colors": 279,
+        "color_entropy": 3.033,
+        "edge_density": 0.24687,
+        "palette_concentration": 0.70009,
+        "flat_fraction": 0.60861,
+        "fingerprint": "f07ff07ff07ff07f817f8fff894f870f8f0f0ccf38e3317331730ccf833fe0ff"
+      }
+    },
+    {
+      "name": "Google DeepMind",
+      "institution_key": "google-deepmind",
+      "institution_keys": [
+        "google-deepmind"
+      ],
+      "slug": "google-deepmind",
+      "path": "assets/logos/google-deepmind.png",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/DeepMind_new_logo.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "3fff3fff3fff37d63796d796d916d85698d59acd9254753475747f7f7f7f7fff",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 640,
+        "height": 148,
+        "has_transparency": true,
+        "foreground_fraction": 0.3034,
+        "contrast_mean": 231.107,
+        "unique_colors": 34,
+        "color_entropy": 2.4332,
+        "edge_density": 0.29452,
+        "palette_concentration": 0.88194,
+        "flat_fraction": 0.68876,
+        "fingerprint": "3fff3fff3fff37d63796d796d916d85698d59acd9254753475747f7f7f7f7fff"
+      }
+    },
+    {
+      "name": "Stanford University",
+      "institution_key": "stanford-university",
+      "institution_keys": [
+        "stanford-university"
+      ],
+      "slug": "stanford-university",
+      "path": "assets/logos/stanford-university.png",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Stanford_wordmark_%282012%29.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "ff3c7e7cfe7cfe7cbe7ca954a955a366e36e662e6e2e2a2e2a2e2a6cee548b55",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 640,
+        "height": 134,
+        "has_transparency": true,
+        "foreground_fraction": 0.3408,
+        "contrast_mean": 230.477,
+        "unique_colors": 27,
+        "color_entropy": 2.7019,
+        "edge_density": 0.38083,
+        "palette_concentration": 0.89855,
+        "flat_fraction": 0.61283,
+        "fingerprint": "ff3c7e7cfe7cfe7cbe7ca954a955a366e36e662e6e2e2a2e2a2e2a6cee548b55"
+      }
+    }
+  ],
+  "missing": [
+    "t54.ai",
+    "Virtuals ACP"
+  ],
+  "rejected": []
+}
