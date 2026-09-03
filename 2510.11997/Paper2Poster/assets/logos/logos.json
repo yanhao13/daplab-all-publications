@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "logos": [
+    {
+      "name": "Columbia University",
+      "institution_key": "columbia-university",
+      "institution_keys": [
+        "columbia-university"
+      ],
+      "slug": "columbia-university",
+      "path": "assets/logos/columbia-university.png",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_Arms_of_Columbia_University.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "f07ff07ff07ff07f817f8fff894f870f8f0f0ccf38e3317331730ccf833fe0ff",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 491,
+        "height": 640,
+        "has_transparency": true,
+        "foreground_fraction": 0.46736,
+        "contrast_mean": 148.538,
+        "unique_colors": 279,
+        "color_entropy": 3.033,
+        "edge_density": 0.24687,
+        "palette_concentration": 0.70009,
+        "flat_fraction": 0.60861,
+        "fingerprint": "f07ff07ff07ff07f817f8fff894f870f8f0f0ccf38e3317331730ccf833fe0ff"
+      }
+    }
+  ],
+  "missing": [
+    "Arklex.ai"
+  ],
+  "rejected": [
+    {
+      "name": "Arklex.ai",
+      "institution_key": "arklex-ai",
+      "source": "https://cdn.brandfetch.io/arklex.ai/w/512/h/512/logo",
+      "stage": "web-fallback",
+      "approved": false,
+      "decision": "rejected",
+      "reason": "decode_failed:UnidentifiedImageError",
+      "quality": {
+        "accepted": false,
+        "reason": "decode_failed:UnidentifiedImageError",
+        "width": 0,
+        "height": 0,
+        "has_transparency": false,
+        "foreground_fraction": 0.0,
+        "contrast_mean": 0.0,
+        "unique_colors": 0,
+        "color_entropy": 0.0,
+        "edge_density": 0.0,
+        "palette_concentration": 0.0,
+        "flat_fraction": 0.0,
+        "fingerprint": ""
+      }
+    },
+    {
+      "name": "Arklex.ai",
+      "institution_key": "arklex-ai",
+      "source": "https://cdn.brandfetch.io/arklex.ai/logo",
+      "stage": "web-fallback",
+      "approved": false,
+      "decision": "rejected",
+      "reason": "decode_failed:UnidentifiedImageError",
+      "quality": {
+        "accepted": false,
+        "reason": "decode_failed:UnidentifiedImageError",
+        "width": 0,
+        "height": 0,
+        "has_transparency": false,
+        "foreground_fraction": 0.0,
+        "contrast_mean": 0.0,
+        "unique_colors": 0,
+        "color_entropy": 0.0,
+        "edge_density": 0.0,
+        "palette_concentration": 0.0,
+        "flat_fraction": 0.0,
+        "fingerprint": ""
+      }
+    }
+  ]
+}
