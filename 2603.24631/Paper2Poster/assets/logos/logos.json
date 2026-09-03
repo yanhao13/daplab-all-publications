@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "logos": [
+    {
+      "name": "Monash University",
+      "institution_key": "monash-university",
+      "institution_keys": [
+        "monash-university"
+      ],
+      "slug": "monash-university",
+      "path": "assets/logos/monash-university.png",
+      "source": "https://upload.wikimedia.org/wikipedia/en/7/74/Monash_University_logo-en.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "34f2356c352c352a534a515650d63ad63af339ab389b3abb3275325536a53ff9",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 640,
+        "height": 195,
+        "has_transparency": true,
+        "foreground_fraction": 0.28975,
+        "contrast_mean": 223.628,
+        "unique_colors": 16,
+        "color_entropy": 3.0222,
+        "edge_density": 0.50183,
+        "palette_concentration": 0.84473,
+        "flat_fraction": 0.52988,
+        "fingerprint": "34f2356c352c352a534a515650d63ad63af339ab389b3abb3275325536a53ff9"
+      }
+    },
+    {
+      "name": "AWS AI Labs",
+      "institution_key": "aws-ai-labs",
+      "institution_keys": [
+        "aws-ai-labs"
+      ],
+      "slug": "aws-ai-labs",
+      "path": "assets/logos/aws-ai-labs.png",
+      "source": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "36d35ed54ad70ad74b734931492529272923fff9fff0fff03fe21f06871dc0fd",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 640,
+        "height": 383,
+        "has_transparency": true,
+        "foreground_fraction": 0.32882,
+        "contrast_mean": 194.371,
+        "unique_colors": 65,
+        "color_entropy": 2.3657,
+        "edge_density": 0.20355,
+        "palette_concentration": 0.89996,
+        "flat_fraction": 0.7193,
+        "fingerprint": "36d35ed54ad70ad74b734931492529272923fff9fff0fff03fe21f06871dc0fd"
+      }
+    }
+  ],
+  "missing": [],
+  "rejected": []
+}
