@@ -1,0 +1,129 @@
+{
+  "version": 2,
+  "logos": [
+    {
+      "name": "Northeastern Univ.",
+      "institution_key": "northeastern-univ",
+      "institution_keys": [
+        "northeastern-univ"
+      ],
+      "slug": "northeastern-univ",
+      "path": "assets/logos/northeastern-univ.png",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Northeastern_Wordmark.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "e7ff67ff77ff37ff37bf31bf11321d545c964c2d4fff4d676457646f644f75d3",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 640,
+        "height": 204,
+        "has_transparency": true,
+        "foreground_fraction": 0.19462,
+        "contrast_mean": 226.342,
+        "unique_colors": 47,
+        "color_entropy": 2.1772,
+        "edge_density": 0.29385,
+        "palette_concentration": 0.84755,
+        "flat_fraction": 0.71376,
+        "fingerprint": "e7ff67ff77ff37ff37bf31bf11321d545c964c2d4fff4d676457646f644f75d3"
+      }
+    },
+    {
+      "name": "Ohio State Univ.",
+      "institution_key": "ohio-state-university",
+      "institution_keys": [
+        "ohio-state-university",
+        "ohio-state-univ"
+      ],
+      "slug": "ohio-state-university",
+      "path": "assets/logos/ohio-state-university.png",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Ohio_State_University_horizontal_logo.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "fffffffffffff59ff59dd264d2cbd2cbd2c3d253ffffdfffffffffffffffffff",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 640,
+        "height": 96,
+        "has_transparency": true,
+        "foreground_fraction": 0.21549,
+        "contrast_mean": 145.061,
+        "unique_colors": 56,
+        "color_entropy": 2.2403,
+        "edge_density": 0.30925,
+        "palette_concentration": 0.90516,
+        "flat_fraction": 0.7369,
+        "fingerprint": "fffffffffffff59ff59dd264d2cbd2cbd2c3d253ffffdfffffffffffffffffff"
+      }
+    },
+    {
+      "name": "Columbia Univ.",
+      "institution_key": "columbia-univ",
+      "institution_keys": [
+        "columbia-univ"
+      ],
+      "slug": "columbia-univ",
+      "path": "assets/logos/columbia-univ.png",
+      "source": "https://commons.wikimedia.org/wiki/Special:FilePath/Coat_of_Arms_of_Columbia_University.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "f07ff07ff07ff07f817f8fff894f870f8f0f0ccf38e3317331730ccf833fe0ff",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 491,
+        "height": 640,
+        "has_transparency": true,
+        "foreground_fraction": 0.46736,
+        "contrast_mean": 148.538,
+        "unique_colors": 279,
+        "color_entropy": 3.033,
+        "edge_density": 0.24687,
+        "palette_concentration": 0.70009,
+        "flat_fraction": 0.60861,
+        "fingerprint": "f07ff07ff07ff07f817f8fff894f870f8f0f0ccf38e3317331730ccf833fe0ff"
+      }
+    },
+    {
+      "name": "Xi'an Jiaotong-Liverpool Univ.",
+      "institution_key": "xi-an-jiaotong-liverpool-university",
+      "institution_keys": [
+        "xi-an-jiaotong-liverpool-university",
+        "xi-an-jiaotong-liverpool-univ"
+      ],
+      "slug": "xi-an-jiaotong-liverpool-university",
+      "path": "assets/logos/xi-an-jiaotong-liverpool-university.png",
+      "source": "https://upload.wikimedia.org/wikipedia/en/9/9a/Xi%27an_Jiaotong-Liverpool_University_logo.svg",
+      "approved": true,
+      "decision": "approved",
+      "fingerprint": "776679b54bb3629cf49efefce2e4ebacd428c92a4da8d52a594a534b514c59ec",
+      "quality": {
+        "accepted": true,
+        "reason": "accepted",
+        "width": 640,
+        "height": 116,
+        "has_transparency": true,
+        "foreground_fraction": 0.37755,
+        "contrast_mean": 225.656,
+        "unique_colors": 49,
+        "color_entropy": 3.3875,
+        "edge_density": 0.49186,
+        "palette_concentration": 0.72645,
+        "flat_fraction": 0.48169,
+        "fingerprint": "776679b54bb3629cf49efefce2e4ebacd428c92a4da8d52a594a534b514c59ec"
+      }
+    }
+  ],
+  "missing": [
+    "Univ. Paris-Saclay & Inria",
+    "Carnegie Mellon Univ. & Apple",
+    "New Jersey Inst. of Technology",
+    "Hellenic Mediterranean Univ. & Archimedes/Athena RC",
+    "Athena RC",
+    "Univ. of Pittsburgh",
+    "Tsinghua Univ."
+  ],
+  "rejected": []
+}
